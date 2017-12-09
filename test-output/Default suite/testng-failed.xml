@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="frameDemo.Frame">
+      <class name="test.HashMa">
         <methods>
-          <include name="testFrames"/>
+          <include name="funWithJavaStrings"/>
         </methods>
-      </class> <!-- frameDemo.Frame -->
+      </class> <!-- test.HashMa -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
